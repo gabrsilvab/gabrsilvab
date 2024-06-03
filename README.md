@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, Eu Sou [Seu Nome]</h1>
+<h1 align="center">Bem Vindo! 🖖 </h1>
 
 <p align="center">Cursando Desenvolvimento de Sistemas pelo Senai Pompeia Shunji Nishimura, com experiência em HTML/CSS, Dart e Python.</p>
 
