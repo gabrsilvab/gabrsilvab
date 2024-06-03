@@ -1,4 +1,4 @@
-<h1 align="center">Bem Vindo! 🖖 </h1>
+<h1 align="center">Bem Vindo 🖖 </h1>
 
 <p align="center">Cursando Desenvolvimento de Sistemas pelo Senai Pompeia Shunji Nishimura, com experiência em HTML/CSS, Dart e Python.</p>
 
@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF de Programação">
+  <img src="https://media.giphy.com/media/l0Iy7xLE0jHgm6Ii8/giphy.gif" alt="GIF de Programação">
 </p>
