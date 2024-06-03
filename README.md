@@ -19,7 +19,7 @@
 <h2 align="center">📜 Certificações</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Academy%20Graduate-AWS%20Academy%20Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Foundations">
+  <img src="https://img.shields.io/badge/AWS-AWS%20Academy%20Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Cisco-CCNA%3A%20Introduction%20to%20Networks-1A1A1A?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA: Introduction to Networks">
 </p>
 
