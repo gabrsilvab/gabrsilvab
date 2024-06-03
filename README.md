@@ -35,8 +35,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Iy7xLE0jHgm6Ii8/giphy.gif" alt="GIF de Programação">
-</p>
