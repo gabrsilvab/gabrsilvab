@@ -28,7 +28,7 @@
 <h2 align="center">📫 Entre em Contato</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-da-silva-6a7208260/">
+  <a href="https://www.linkedin.com/in/gabriel-da-silva-bezerra-6a7208260/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
 
