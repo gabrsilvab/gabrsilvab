@@ -35,6 +35,16 @@
 
 ---
 
+<h2 align="center">🎶 O que estou ouvindo no Spotify</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31ifm53nwpb7xalybg4wlol5vwle?si=XHBiGqh-Q8C24Y-dZ-IBFw">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="600"/>
+  </a>
+</p>
+
+---
+
 <h2 align="center">📫 Entre em Contato</h2>
 
 <p align="center">
