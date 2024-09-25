@@ -35,11 +35,11 @@
 
 ---
 
-<h2 align="center">🎶 O que estou ouvindo no Spotify</h2>
+<h2 align="center">🎶 O que eu ouvi recentemente no Spotify</h2>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31ifm53nwpb7xalybg4wlol5vwle?si=XHBiGqh-Q8C24Y-dZ-IBFw">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="600"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ifm53nwpb7xalybg4wlol5vwle" alt="Spotify Recently Played" width="600"/>
   </a>
 </p>
 
@@ -51,4 +51,10 @@
   <a href="https://www.linkedin.com/in/gabriel-da-silva-bezerra-6a7208260/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+
+---
+
+<p align="center">
+  Feito com ❤️ por Gabriel da Silva Bezerra
 </p>
