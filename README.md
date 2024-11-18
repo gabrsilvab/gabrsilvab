@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Cisco-CCNA%3A%20Introduction%20to%20Networks-1A1A1A?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA: Introduction to Networks">
   <img src="https://img.shields.io/badge/Oracle-Java%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Fundamentals">
   <img src="https://img.shields.io/badge/Senai-Gran%20Prix%202023%20Excelência-ED1C24?style=for-the-badge&logo=senai&logoColor=white" alt="Gran Prix Excelência">
-  <img src="https://img.shields.io/badge/Senai-Desvendando%20a%20Blockchain-ED1C24?style=for-the-badge&logo=senai&logoColor=white" alt="Desvendando a Blockchain">
-  <img src="https://img.shields.io/badge/Senai-Empreender%20Senai-ED1C24?style=for-the-badge&logo=senai&logoColor=white" alt="Empreender Senai">
   <img src="https://img.shields.io/badge/Senai-Segurança%20Cibernética-ED1C24?style=for-the-badge&logo=senai&logoColor=white" alt="Segurança Cibernética">
   <img src="https://img.shields.io/badge/Senai-Ética%20na%20Inteligência%20Artificial-ED1C24?style=for-the-badge&logo=senai&logoColor=white" alt="Ética na Inteligência Artificial">
 </p>
