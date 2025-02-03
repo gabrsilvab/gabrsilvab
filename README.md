@@ -1,9 +1,5 @@
 <h1 align="center">Bem-vindo 🖖</h1>
 
-<p align="center">
-  Tenho 17 anos e estou cursando Desenvolvimento de Sistemas pelo Senai Pompeia Shunji Nishimura.
-</p>
-
 ---
 
 <h2 align="center">🛠️ Habilidades</h2>
