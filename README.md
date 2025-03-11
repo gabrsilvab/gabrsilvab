@@ -32,7 +32,7 @@
 <h2 align="center">📫 Entre em Contato</h2>
 
 <p align="center">
-  gabr.sivab@gmail.com
+  <p gabr.silvab@gmail.com>
   <a href="https://www.linkedin.com/in/gabriel-da-silva-bezerra-6a7208260/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
