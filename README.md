@@ -1,4 +1,4 @@
-<p align="center">
+  <p align="center">
   <strong>Desenvolvedor de Software</strong> Técnico pelo SENAI e me graduando pela Unimar.
 </p>
 
@@ -57,4 +57,4 @@
 
 > *Confira alguns dos projetos que desenvolvi em meu perfil, com foco em arquitetura, testes e boas práticas de desenvolvimento.*
 >
-> www.loja.zanattacasa.com.br
+> www.loja.zanattacasa.com.br (future version)
