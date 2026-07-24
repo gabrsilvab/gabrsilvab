@@ -1,7 +1,5 @@
-<h1 align="center">Olá, sou o Gabriel Bezerra 👋</h1>
-
 <p align="center">
-  <strong>Desenvolvedor de Software</strong> focado em criar aplicações escaláveis, performáticas e de alta qualidade técnica.
+  <strong>Desenvolvedor de Software</strong> Técnico pelo SENAI e me graduando pela Unimar.
 </p>
 
 <p align="center">
